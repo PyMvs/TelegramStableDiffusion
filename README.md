@@ -88,10 +88,7 @@ If you don't have a branch with ```LOW_VRAM_MODE``` called *fp16*, you need to u
 
 Credits:
 
-[Jossalgon](https://github.com/jossalgon/StableDiffusionTelegram)
-
-[Diffusers](https://github.com/huggingface/diffusers)
-
-[PythonBot](https://github.com/python-telegram-bot/python-telegram-bot)
-
-[SD](https://github.com/CompVis/stable-diffusion)
+● [Jossalgon](https://github.com/jossalgon/StableDiffusionTelegram)
+● [Diffusers](https://github.com/huggingface/diffusers)
+● [PythonBot](https://github.com/python-telegram-bot/python-telegram-bot)
+● [SD](https://github.com/CompVis/stable-diffusion)
