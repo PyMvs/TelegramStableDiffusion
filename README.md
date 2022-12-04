@@ -37,7 +37,7 @@ For more information: https://huggingface.co/docs/hub/security-tokens
 
 5. Talk to BotFather and create a bot [FatherBot](https://t.me/BotFather).
 
-6. it is recommended to create an .env file to hide all the private and personal information to be used in the project
+6. It is recommended to create an .env file to hide all the private and personal information to be used in the project
 
 7. Install libraries from ```requirements.txt``` (*search in the code of Google Collab for more information to execute the .py*)
 
